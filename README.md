@@ -47,8 +47,8 @@
 
 ## 📫 Let's Connect
 
-- 💌 Email: mustaphadvlz@gmail.com  
-- 🐙 GitHub: [@mustaphadvlz](https://github.com/mustaphaabdulazizdambatta)  
+- 💌 Email: mustaphaabdulaziz001@gmail.com  
+- 🐙 GitHub: [@mustaphaabdulazizdambatta](https://github.com/mustaphaabdulazizdambatta)  
 - 🐦 Twitter: [@yourhandle](https://twitter.com/musty_01_
 
 ---
