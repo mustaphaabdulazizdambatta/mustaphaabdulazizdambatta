@@ -22,7 +22,7 @@
 - **Languages:** Solidity, JavaScript, Python, Java, C++, Bash
 - **Web:** HTML/CSS, Django, React
 - **Smart Contracts:** Hardhat, Foundry, OpenZeppelin
-- **Security:** Burp Suite, Wireshark, Evilginx, Metasploit, Frida
+- **Security:** Burp Suite, Wireshark, Evilginx, Metasploit, Frida much more
 - **Mobile:** Android Studio, Xcode
 - **Blockchain:** zkSync, Chainlink, Immunefi, MetaMask, Tenderly
 - **Tools:** Git, Docker, Nmap, Ghidra, VS Code
@@ -42,15 +42,14 @@
 - 🥇 4th Place – **zkSync CodeHawks Competitive Audit**
 - 🏛️ NASA Hall of Fame on **CodeHawks**
 - 🧪 Discovered vulnerabilities in real-world smart contracts
-- 💬 Writes PoCs that meet **Immunefi Web3 reporting standards**
 
 ---
 
 ## 📫 Let's Connect
 
 - 💌 Email: mustaphadvlz@gmail.com  
-- 🐙 GitHub: [@mustaphadvlz](https://github.com/mustaphadvlz)  
-- 🐦 Twitter: [@yourhandle](https://twitter.com/yourhandle) *(optional)*
+- 🐙 GitHub: [@mustaphadvlz](https://github.com/mustaphaabdulazizdambatta)  
+- 🐦 Twitter: [@yourhandle](https://twitter.com/musty_01_
 
 ---
 
