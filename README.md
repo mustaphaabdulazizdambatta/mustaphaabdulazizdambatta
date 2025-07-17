@@ -1,56 +1,22 @@
-# 👋 Hi, I'm Mustapha Abdulaziz
+<h1 align="center">Hi 👋, I'm Mustapha Abdulaziz</h1>
+<h3 align="center">Software Engineer | 🛡️ Smart Contract Auditor | 📱 Mobile & Web Penetration Tester 🌍 Based in Nigeria | 🧠 Lifelong Learner | 🧑‍💻 Passionate about Blockchain Security</h3>
 
-🎓 Software Engineer | 🛡️ Smart Contract Auditor | 📱 Mobile & Web Penetration Tester  
-🌍 Based in Nigeria | 🧠 Lifelong Learner | 🧑‍💻 Passionate about Blockchain Security
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mustaphaabdulazizdambatta&label=Profile%20views&color=0e75b6&style=flat" alt="mustaphaabdulazizdambatta" /> </p>
 
----
+<p align="left"> <a href="https://twitter.com/musty_01_" target="blank"><img src="https://img.shields.io/twitter/follow/musty_01_?logo=twitter&style=for-the-badge" alt="musty_01_" /></a> </p>
 
-## 💼 About Me
+- 📫 How to reach me **mustaphaabdulaziz001@gmail.com**
 
-- 🔐 Focused on **smart contract development and security auditing**  
-- 📲 Skilled in **mobile app pentesting** (Android expert, currently mastering iOS)  
-- 🌐 Experienced in **frontend dev** (HTML, CSS, JS) and **backend** (Python/Django, Solidity)  
-- 🛠️ Strong in **Linux**, basic **networking**, and **reverse engineering**
-- 🧪 Contributor on **CodeHawks**, placing **4th** in zkSync security competition
-- 📜 Graduated from **Digital Bridge Institute** with a diploma in Software Engineering
-- 🇳🇬 From Kano State, Dambatta LGA
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/musty_01_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="musty_01_" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/mustapha-sani-a54511248/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mustapha-sani-a54511248/" height="30" width="40" /></a>
+<a href="https://fb.com/https://www.facebook.com/share/1aanucobfm/?mibextid=wwxifr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/share/1aanucobfm/?mibextid=wwxifr" height="30" width="40" /></a>
+<a href="https://instagram.com/https://www.instagram.com/musty_code.py?igsh=cw1xeha5axfqytiz&utm_source=qr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/musty_code.py?igsh=cw1xeha5axfqytiz&utm_source=qr" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/https://www.youtube.com/@hack-trickx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@hack-trickx" height="30" width="40" /></a>
+</p>
 
----
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.rust-lang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="rust" width="40" height="40"/> </a> </p>
 
-## 🛠️ Skills & Tools
-
-- **Languages:** Solidity, JavaScript, Python, Java, C++, Bash
-- **Web:** HTML/CSS, Django, React
-- **Smart Contracts:** Hardhat, Foundry, OpenZeppelin
-- **Security:** Burp Suite, Wireshark, Evilginx, Metasploit, Frida much more
-- **Mobile:** Android Studio, Xcode
-- **Blockchain:** zkSync, Chainlink, Immunefi, MetaMask, Tenderly
-- **Tools:** Git, Docker, Nmap, Ghidra, VS Code
-
----
-
-## 🧪 Recent Projects
-
-- 🔍 **Audited:** `VotingPowerProvider`, `StabilityPool`, `StakeManager`, `TellerWithMultiAssetSupport`
-- ☕ **Waga Tokenization App** on zkSync (frontend + smart contracts)
-- 📡 **RTL-SDR Research**: ADS-B, AIS, FM decoding, spectrum analysis
-
----
-
-## 🏆 Achievements
-
-- 🥇 4th Place – **zkSync CodeHawks Competitive Audit**
-- 🏛️ NASA Hall of Fame on **CodeHawks**
-- 🧪 Discovered vulnerabilities in real-world smart contracts
-
----
-
-## 📫 Let's Connect
-
-- 💌 Email: mustaphaabdulaziz001@gmail.com  
-- 🐙 GitHub: [@mustaphaabdulazizdambatta](https://github.com/mustaphaabdulazizdambatta)  
-- 🐦 Twitter: [@yourhandle](https://twitter.com/musty_01_
-
----
-
-_“Stay curious. Break things. Build better.”_
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mustaphaabdulazizdambatta&show_icons=true&locale=en&layout=compact" alt="mustaphaabdulazizdambatta" /></p>
